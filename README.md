@@ -17,3 +17,5 @@ User stories
 Later:
 1. OAuth with google
 2. add in actual data from Google Books API - https://developers.google.com/books/docs/v1/using
+
+Link To Mock: https://dribbble.com/shots/10993454-EBook-Manager/attachments/2592536?mode=media
